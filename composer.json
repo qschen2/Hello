@@ -1,0 +1,17 @@
+{
+    "name": "qschen2/hello",
+    "description": "echo hello",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qschen2",
+            "email": "qschen2@163.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Qschen2\\":"qschen2/src/"
+        }
+    }
+}
